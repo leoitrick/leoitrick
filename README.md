@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/leoitrick/<OWNER>/<OWNER>/readme_header.png "Header")](https://)
+[![Header](https://github.com/leoitrick/leoitrick/blob/main/readme_header.png "Header")](https://)
+
 
 - 👋 Hi, I’m @leoitrick, a full-stack Developer
 - 👀 I’m interested in ...
