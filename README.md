@@ -1,4 +1,4 @@
-[![Header](https://github.com/leoitrick/leoitrick/blob/main/readme_header.png "Header")]()
+[![Header](https://github.com/leoitrick/leoitrick/blob/main/readme_header.png "Header")]
 
 
 - 👋 Hi, I’m @leoitrick, a full-stack Developer
